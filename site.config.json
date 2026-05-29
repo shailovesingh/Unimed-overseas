@@ -1,0 +1,48 @@
+{
+  "brand": "Unimed Overseas 🩺",
+  "logo": "images/logo.png",
+  "logoAlt": "Unimed Overseas logo featuring a blue and green stylized U with a globe and an airplane",
+  "whatsapp": "+918854018866",
+  "whatsappDisplay": "+91 8854018866",
+  "email": "unimedoverseas26@gmail.com",
+  "theme": "light",
+  "colors": {
+    "background": "#FFFFFF",
+    "surface": "#F8FAFC",
+    "primary": "#0A5C70",
+    "text": "#1E293B",
+    "ctaGold": "#D97706",
+    "ctaEmerald": "#059669"
+  },
+  "destinations": [
+    { "name": "United Kingdom (UK)", "slug": "uk", "flag": "🇬🇧" },
+    { "name": "Russia", "slug": "russia", "flag": "🇷🇺" },
+    { "name": "Kazakhstan", "slug": "kazakhstan", "flag": "🇰🇿" },
+    { "name": "Uzbekistan", "slug": "uzbekistan", "flag": "🇺🇿" },
+    { "name": "Kyrgyzstan", "slug": "kyrgyzstan", "flag": "🇰🇬" },
+    { "name": "Georgia", "slug": "georgia", "flag": "🇬🇪" },
+    { "name": "Moldova", "slug": "moldova", "flag": "🇲🇩" },
+    { "name": "Philippines", "slug": "philippines", "flag": "🇵🇭" },
+    { "name": "Bangladesh", "slug": "bangladesh", "flag": "🇧🇩" },
+    { "name": "Nepal", "slug": "nepal", "flag": "🇳🇵" }
+  ],
+  "phoneCodes": [
+    { "code": "+91", "label": "🇮🇳 India (+91)", "default": true },
+    { "code": "+977", "label": "🇳🇵 Nepal (+977)" },
+    { "code": "+880", "label": "🇧🇩 Bangladesh (+880)" },
+    { "code": "+63", "label": "🇵🇭 Philippines (+63)" },
+    { "code": "+44", "label": "🇬🇧 UK (+44)" },
+    { "code": "+7", "label": "🇷🇺 Russia (+7)" },
+    { "code": "+995", "label": "🇬🇪 Georgia (+995)" },
+    { "code": "+373", "label": "🇲🇩 Moldova (+373)" },
+    { "code": "+998", "label": "🇺🇿 Uzbekistan (+998)" },
+    { "code": "+996", "label": "🇰🇬 Kyrgyzstan (+996)" },
+    { "code": "+7", "label": "🇰🇿 Kazakhstan (+7)" }
+  ],
+  "budgetRanges": [
+    "₹15 Lakhs - ₹20 Lakhs",
+    "₹20 Lakhs - ₹25 Lakhs",
+    "₹25 Lakhs - ₹35 Lakhs",
+    "Above ₹35 Lakhs (Premium Tracks)"
+  ]
+}

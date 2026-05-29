@@ -1,0 +1,16 @@
+{
+  "name": "unimed-overseas",
+  "version": "1.0.0",
+  "description": "Unimed Overseas — international medical education consultancy",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs",
+    "deploy:preview": "npm run build && npm run preview"
+  },
+  "devDependencies": {
+    "gray-matter": "^4.0.3",
+    "marked": "^15.0.6"
+  }
+}
